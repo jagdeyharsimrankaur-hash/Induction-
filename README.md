@@ -1,2 +1,2 @@
-# Induction-
-Branch
+#Introduction-
+Hi, my name is Harsimran. I’m currently pursuing a degree in Information Technology at Guru Nanak Dev Engineering College, Ludhiana. I have a keen interest in technology and enjoy learning new skills that help me grow both academically and personally. I’m passionate about staying updated with the latest developments in the IT field and look forward to building a meaningful career in this domain.
