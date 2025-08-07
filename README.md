@@ -1,9 +1,8 @@
 #Introduction-
 Hi, my name is Harsimran. I’m currently pursuing a degree in Information Technology at Guru Nanak Dev Engineering College, Ludhiana. I have a keen interest in technology and enjoy learning new skills that help me grow both academically and personally. I’m passionate about staying updated with the latest developments in the IT field and look forward to building a meaningful career in this domain.
-Day1
 DAY 1
 Time: 8:30 A.M. onward
-The day began at 8:30 A.M. with a peaceful and soothing Shabad Kirtan, followed by tea and snacks around 9:30 A.M.. The inaugural ceremony started at 10:00 A.M.. We were given a warm welcome by our teachers, seniors, and staff, setting a positive tone for the journey ahead. Later, Er. Rakesh Kumar (1991 alumni, ADC Ludhiana) and Sh. Rajivder Garg (Municipal Corporation, Ludhiana) shared inspiring words. Alumni encouraged us to be bold, stay motivated, and keep moving forward. A guest speaker also introduced a loan scheme to support students with financial challenges. The HOD of Applied Sciences gave us insights into how our next 4 years would shape up — starting with our first year in this department before we move on to our core CSE classes.
+The day began at 8:30 A.M. with a peaceful and soothing Shabad Kirtan, followed by tea and snacks around 9:30 A.M.. The inaugural ceremony started at 10:00 A.M.. We were given a warm welcome by our teachers, seniors, and staff, setting a positive tone for the journey ahead. Later, Er. Rakesh Kumar (1991 alumni, ADC Ludhiana) and Sh. Rajivder Garg (Municipal Corporation, Ludhiana) shared inspiring words. Alumni encouraged us to be bold, stay motivated, and keep moving forward. A guest speaker also introduced a loan scheme to support students with financial challenges. The HOD of Applied Sciences gave us insights into how our next 4 years would shape up — starting with our first year in this department before we move on to our core classes.
 
 DAY 2
 Time: 9:30 A.M. onward
@@ -16,7 +15,8 @@ The day began with an enlightening session by Dr. Jaswinder Singh, who emphasize
 DAY 4
 Time: 9:30 A.M. onward
 The day started with P2P classes taught by two seniors from the IT department, where we learned the basics of C++ syntax. At 10:30 A.M., we attended an English lecture by Prof. Manjot Kaur, where she focused on tenses and conducted an interactive introduction session to understand our names, hobbies, strengths, and weaknesses. Later, at 12:30 P.M., we had an expert lecture by Dr. Priya Darshani Ma’am on Universal Human Values, discussing the difference between temporary and permanent happiness and how we may use certain distractions to escape depression which isn't right. The day ended with a session by the Causmic Club at 2:30 P.M., where they shared their history, achievements, and upcoming goals.
-📅 Day in College – Attended P2P Maths Bee Lecture
+
+Day in College – Attended P2P Maths Bee Lecture
 
 Date: 7th August 2025
 Location: Guru Nanak Dev Engineering College (GNE)
@@ -32,7 +32,7 @@ Key takeaways from the lecture:
 Overall, the session was a great mix of learning, teamwork, and healthy competition. Looking forward to the next one!
 🗓️ A Day in College – 6th August 2025 (Wednesday)
 
-Department: CSE / IT
+Department: it
 College: Guru Nanak Dev Engineering College (GNE)
 
 Today was a packed and productive day!
